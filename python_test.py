@@ -1,0 +1,1 @@
+company_store = 30000
